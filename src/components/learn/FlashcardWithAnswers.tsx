@@ -102,8 +102,8 @@ export default function FlashcardWithAnswers({ category, words }: FlashcardProps
                 </CardHeader>
                 <CardContent className="flex flex-col items-center justify-center min-h-[150px] sm:min-h-[200px] text-center">
                     <div className="mb-4">
-                        <p className="text-2xl sm:text-3xl font-semibold text-slate-800 dark:text-slate-100">{prompt}</p>
-                        <p className="text-lg sm:text-xl text-slate-600 dark:text-slate-300 mt-2">{answer}</p>
+                        <p className="text-4xl sm:text-5xl font-semibold text-slate-800 dark:text-slate-100 mb-4">{prompt}</p>
+                        <p className="text-2xl sm:text-3xl text-slate-600 dark:text-slate-300">{answer}</p>
                     </div>
                 </CardContent>
                 <CardFooter className="flex flex-col gap-2">

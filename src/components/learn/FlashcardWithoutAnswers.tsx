@@ -108,10 +108,10 @@ export default function FlashcardWithoutAnswers({ category, words }: FlashcardPr
                     <CardTitle className="text-center text-xl sm:text-2xl">Flashcards: {category} (Test)</CardTitle>
                 </CardHeader>
                 <CardContent className="flex flex-col items-center justify-center min-h-[150px] sm:min-h-[200px] text-center">
-                    <p className="text-2xl sm:text-3xl font-semibold text-slate-800 dark:text-slate-100 mb-4">{prompt}</p>
+                    <p className="text-4xl sm:text-5xl font-semibold text-slate-800 dark:text-slate-100 mb-4">{prompt}</p>
                     <div className="h-8">
                         {isAnswerVisible && (
-                            <p className="text-lg sm:text-xl text-blue-600 dark:text-blue-400 animate-in fade-in duration-300">
+                            <p className="text-2xl sm:text-3xl text-blue-600 dark:text-blue-400 animate-in fade-in duration-300">
                                 {answer}
                             </p>
                         )}
