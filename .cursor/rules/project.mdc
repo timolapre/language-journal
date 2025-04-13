@@ -1,0 +1,35 @@
+---
+description: 
+globs: 
+alwaysApply: true
+---
+# Project: Personal Language Learning Website
+
+## 1. Core Technologies
+
+- **Framework:** Next.js (using the App Router)
+- **Styling:** Tailwind CSS (utility-first approach)
+- **UI Components:** shadcn
+- **Package Manager:** Yarn
+- **Language:** TypeScript (preferred for type safety and modern features)
+
+## 2. Design Philosophy
+
+- **UI/UX:** Simple, clean, modern, intuitive, and visually appealing. Prioritize ease of use.
+- **Responsiveness:** The website is primarily designed for phones. Ensure it is fully responsive, especially on mobile devices, while also supporting larger screens.
+
+## 3. Coding Standards
+
+- **Code Style:** Follow standard Next.js and React best practices. Write clean, readable, and maintainable code. Use modern JavaScript/TypeScript features appropriately.
+- **Components:** Create reusable and well-defined React components. Keep components focused on a single responsibility.
+- **TypeScript:** Use TypeScript strictly for better code quality and maintainability. Define clear types and interfaces.
+- **Comments:** Add comments only for complex logic or non-obvious parts. Avoid redundant comments.
+
+## 4. Project Structure
+
+- Adhere to the standard Next.js App Router project structure.
+- Organize components, hooks, utils, and types logically (e.g., within a `src` directory).
+
+## 5. Deployment
+
+- Target Vercel for deployment, leveraging its seamless integration with Next.js.
