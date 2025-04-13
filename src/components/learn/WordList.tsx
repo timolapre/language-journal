@@ -33,9 +33,6 @@ export default function WordList({ category, words }: WordListProps) {
         </div>
 
         <div className="bg-white dark:bg-slate-800 shadow-md rounded-lg p-6">
-            <h2 className="text-2xl font-semibold mb-6 text-slate-800 dark:text-slate-100 text-center">
-                Word List: {category}
-            </h2>
             {words.length > 0 ? (
                 <ul className="space-y-3">
                 {/* Optional Header Row */}

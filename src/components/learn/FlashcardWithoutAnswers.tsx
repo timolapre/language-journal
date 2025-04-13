@@ -104,10 +104,7 @@ export default function FlashcardWithoutAnswers({ category, words }: FlashcardPr
                 onKeyPress={(e: React.KeyboardEvent) => { if (e.key === 'Enter' || e.key === ' ') handleInteraction(); }}
                 aria-live="polite"
             >
-                <CardHeader>
-                    <CardTitle className="text-center text-xl sm:text-2xl">Flashcards: {category} (Test)</CardTitle>
-                </CardHeader>
-                <CardContent className="flex flex-col items-center justify-center min-h-[150px] sm:min-h-[200px] text-center">
+                <CardContent className="flex flex-col items-center justify-center min-h-[150px] sm:min-h-[200px] text-center mt-8">
                     <p className="text-4xl sm:text-5xl font-semibold text-slate-800 dark:text-slate-100 mb-4">{prompt}</p>
                     <div className="h-8">
                         {isAnswerVisible && (

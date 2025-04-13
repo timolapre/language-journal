@@ -58,6 +58,8 @@ export default function LearnPage({ params }: LearnPageProps) {
         </Button>
       </div>
 
+      <h3 className="text-4xl sm:text-5xl font-semibold text-slate-800 dark:text-slate-100 mb-4">{category}</h3>
+
       {/* Navigation between types */}
       <div className="mb-8 flex flex-col items-stretch sm:flex-row sm:justify-center gap-2 sm:gap-4 w-full max-w-xs sm:max-w-none"> {/* Changed flex classes and added width constraints */}
         <Button asChild variant={type === 'list' ? 'default' : 'outline'}>
