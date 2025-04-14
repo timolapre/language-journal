@@ -507,494 +507,494 @@ number,el número,nummer
 zero,cero,nul
 one,uno,een
 two,dos,twee
-three,drie,drie
-four,vier,vier
-five,vijf,vijf
-six,zes,zes
-seven,zeven,zeven
-eight,acht,acht
-nine,negen,negen
-ten,tien,tien
-eleven,elf,elf
-twelve,twaalf,twaalf
-thirteen,dertien,dertien
-fourteen,veertien,veertien
-fifteen,vijftien,vijftien
-sixteen,zes,zes
-seventeen,zeventien,zeventien
-achtien,achttien,achttien
-nineteen,negenentwintig,negenentwintig
-twintig,twintig,twintig
+three,tres,drie
+four,cuatro,vier
+five,cinco,vijf
+six,seis,zes
+seven,siete,zeven
+eight,ocho,acht
+nine,nueve,negen
+ten,diez,tien
+eleven,once,elf
+twelve,doce,twaalf
+thirteen,trece,dertien
+fourteen,el catorce,veertien
+fifteen,quince,vijftien
+sixteen,dieciséis,zestien
+seventeen,diecisiete,zeventien
+achtien,el dieciocho,achttien
+nineteen,el diecinueve,negentien
+twenty,veinte,twintig
 to listen to,escuchar,luisteren naar
-to drive,rijden,rijden
-to close,sluiten,sluiten
-to serve,servieren,serveren
-to begin,beginnen,beginnen
-I'm sorry,het spijt me,het spijt me
-to go for a walk,wandelen,lopen
-love,liefde,liefde
-to answer,antwoorden,antwoorden
-tired,moe,moe
-to forget,vergeten,vergeten
-nothing,niets,niets
-to visit,bezoeken,bezoeken
-living room,woonkamer,woonkamer
-alone,alleen,alleen
-heart,hart,hart
-to drive,rijden,rijden
-to repeat,herhalen,herhalen
-to leave,vertrekken,vertrekken
-notebook,notitieboek,notitieboek
-cousin,neef,neef
-to skate,schaatsen,schaatsen
-test,test,test
-trip,reis,reis
-to shave,scheren,scheren
-appointment,afspraak,afspraak
-to practice,oefenen,oefenen
-who,wie,wie
-less,minder,minder
-bathroom,badkamer,badkamer
-land,land,land
-life,leven,leven
-cereal,granen,granen
-short,kort,kort
-niece,nicht,nicht
-owner,eigenaar,eigenaar
-sugar,suiker,suiker
-key,sleutel,sleutel
-rug,tapijt,tapijt
-friendship,vriendschap,vriendschap
-soup,soep,soep
-onion,ui,ui
-butter,boter,boter
-cap,pet,pet
-salary,salaris,salaris
-stone,steen,steen
-twenty-one,eenentwintig,eenentwintig
-twenty-two,tweeëntwintig,tweeëntwintig
-twenty-three,drieëntwintig,drieëntwintig
-twenty-four,vierentwintig,vierentwintig
-twenty-five,vijfentwintig,vijfentwintig
-twenty-six,zesentwintig,zesentwintig
-twenty-seven,zevenentwintig,zevenentwintig
-twenty-eight,achtentwintig,achtentwintig
-twenty-nine,negenentwintig,negenentwintig
-thirty,dertig,dertig
-forty,veertig,veertig
-fifty,vijftig,vijftig
-sixty,zestig,zestig
-seventy,zeventig,zeventig
-eighty,tachtig,tachtig
-ninety,negentig,negentig
-one hundred and one,honderdeen,honderdeen
-two hundred,tweehonderd,tweehonderd
-three hundred,driehonderd,driehonderd
-four hundred,vierhonderd,vierhonderd
-five hundred,vijfhonderd,vijfhonderd
-six hundred,zeshonderd,zeshonderd
-seven hundred,zevenhonderd,zevenhonderd
-achthonderd,achthonderd,achthonderd
-nine hundred,negenhonderd,negenhonderd
-thousand,duizend,duizend
-two thousand,tweeduizend,tweeduizend
-one hundred thousand,honderdduizend,honderdduizend
-two hundred thousand,tweehonderdduizend,tweehonderdduizend
-million,miljoen,miljoen
-fair,eerlijk,eerlijk
-the day before yesterday,eergisteren,eergisteren
-carrot,wortel,wortel
-food,voedsel,voedsel
-red-haired,roodharig,roodharig
-fork,vork,vork
-when,wanneer,wanneer
-employee,werknemer,werknemer
-ham,spek,spek
-brave,dapper,dapper
-mouse,muis,muis
-to sunbathe,zonnen,zonnen
-closed,gesloten,gesloten
-blanket,deken,deken
-how much,hoeveel,hoeveel
-to reduce,verminderen,verminderen
-train,trein,trein
-hat,hoed,hoed
-problem,probleem,probleem
-accountant,accountant,accountant
-climate,klimaat,klimaat
-telephone,telefoon,telefoon
-metro,metro,metro
-where,waar,waar
-company,bedrijf,bedrijf
-map,kaart,kaart
-pants,broek,broek
-grape,druif,druif
-scientist,wetenschapper,wetenschapper
-player,speler,speler
-west,westen,westen
-untidy,slordig,slordig
-crafts,ambachten,ambachten
-cookie,koekje,koekje
-housing,huisvesting,huisvesting
-shoe,schoen,schoen
-hairdresser,kapper,kapper
-boot,laars,laars
-customer,klant,klant
-grandparents,grootouders,grootouders
-performance,optreden,optreden
-shoe store,schoenenwinkel,schoenenwinkel
-mathematics,wiskunde,wiskunde
-free time,vrije tijd,vrije tijd
-dance,dans,dans
-important,belangrijk,belangrijk
-meeting,vergadering,vergadering
-to pollute,vervuilen,vervuilen
-yogurt,yoghurt,yoghurt
-culture,cultuur,cultuur
-passport,paspoort,paspoort
-volleyball,volleybal,volleybal
-musician,muzikant,muzikant
-to listen to music,muziek luisteren,muziek luisteren
-documentary,documentaire,documentaire
-better,beter,beter
-like,zoals,zoals
-to leave,verlaten,verlaten
-to hear,horen,horen
-thank you,dank je,dank je
-but,maar,maar
-already,al,al
-to return,teruggeven,teruggeven
-this,deze,deze
-check,rekening,rekening
-now,nu,nu
-with,met,met
-to feel,voelen,voelen
-birthday,verjaardag,verjaardag
-lazy,lui,lui
-ready,klaar,klaar
-to add,toevoegen,toevoegen
-town,dorp,dorp
-often,vaak,vaak
-to be born,geboren worden,geboren worden
-nephew,neef,neef
-to run,rennen,rennen
-lunch,lunchen,lunchen
-last name,achternaam,achternaam
-pencil,potlood,potlood
-career,carrière,carrière
-language,taal,taal
-to offer,aanbieden,aanbieden
-name,naam,naam
-desk,bureau,bureau
-very,erg,erg
-pain,pijn,pijn
-maybe,misschien,misschien
-ball,bal,bal
-to fight,vechten,vechten
-first,eerste,eerste
-second,tweede,tweede
-third,derde,derde
-fourth,vierde,vierde
-fifth,vijfde,vijfde
-sixth,zesde,zesde
-seventh,zevende,zevende
-achtste,achtste,achtste
-ninth,negende,ninth
-tenth,tiende,tiende
-shame,schaamte,schaamte
-advice,advies,advies
-knife,mes,mes
-excuse me,excuseer me,excuseer me
-road,weg,weg
-to obtain,verkrijgen,verkrijgen
-bad,slecht,slecht
-pen,pen,pen
-garlic,knoflook,knoflook
-student,student,student
-tasty,smakelijk,smakelijk
-to act,acteren,acteren
-drama,drama,drama
-arrival,aankomst,aankomst
-throat,keel,keel
-star,ster,ster
-stadium,stadion,stadion
-pepper,peper,peper
-to invite,uitnodigen,uitnodigen
-athlete,atleet,atleet
-blouse,blouse,blouse
-to fall in love,verliefd worden,verliefd worden
-corn,maïs,maïs
-computer,computer,computer
-design,ontwerp,ontwerp
-image,beeld,beeld
-package,pakket,pakket
-elegant,elegante,elegante
-for example,bijvoorbeeld,bijvoorbeeld
-medicine,medicijn,medicijn
-desert,woestijn,woestijn
-show,show,show
-baseball,honkbal,honkbal
-tea,thee,thee
-sculpture,sculptuur,sculptuur
-jewelry store,juwelier,juwelier
-article,artikel,artikel
-equality,gelijkheid,gelijkheid
-education,onderwijs,onderwijs
-apartment,appartement,appartement
-dancer,danser,danser
-recycling,recycling,recycling
-sculptor,beeldhouwer,beeldhouwer
-French,Frans,Frans
-volunteer,vrijwilliger,vrijwilliger
-toothpaste,tandpasta,tandpasta
-product,product,product
-historical,historisch,historisch
-there,daar,daar
-night,nacht,nacht
-game,spel,spel
-video game,videogame,videogame
-travel agency,reisbureau,reisbureau
-to take out,uithalen,uithalen
-to have fun,plezier hebben,plezier hebben
-well,goed,goed
-to achieve,bereiken,bereiken
-almost,bijna,bijna
-to use,gebruiken,gebruiken
-to take care of,zorgen voor,zorgen voor
-face,gezicht,gezicht
-homework,huiswerk,huiswerk
-without,zonder,zonder
-hair,haar,haar
-happy,gelukkig,gelukkig
-to save,opslaan,opslaan
-little,weinig,weinig
-angry,boos,boos
-to fill,vullen,vullen
-watch,horloge,horloge
-to cross,oversteken,oversteken
-fat,dik,dik
-to prepare,voorbereiden,voorbereiden
-worse,slechter,slechter
-room,kamer,kamer
-to develop,ontwikkelen,ontwikkelen
-horse,paard,paard
-trash,vuilnis,vuilnis
-mail,post,post
-noise,geluid,geluid
-grandson,kleinzoon,kleinzoon
-landscape,landschap,landschap
-poor,arm,arm
-wife,vrouw,vrouw
-slow,langzaam,langzaam
-hall,hal,hal
-thing,ding,ding
-magazine,tijdschrift,tijdschrift
-husband,man,man
-to snow,sneeuwen,sneeuwen
-spoon,lepel,lepel
-stove,fornuis,fornuis
-to hate,haten,haten
-to bargain,afdingen,afdingen
-to record,opnemen,opnemen
-to surprise,verrassen,verrassen
-close to,dichtbij,dichtbij
-before,voor,voor
-no,nee,nee
-yes,ja,ja
-turkey,kalkoen,kalkoen
-heavy,zwaar,zwaar
-each,elke,elke
-my,mijn,mijn
-all,alles,alles
-there,daar,daar
-close,dichtbij,dichtbij
-far,ver,ver
-so much,zoveel,zoveel
-so,zo,zo
-to have,hebben,hebben
-nice to meet you,aangenaam kennis te maken,aangenaam kennis te maken
-happy birthday,gelukkige verjaardag,gelukkige verjaardag
-even though,hoewel,hoewel
-while,terwijl,terwijl
-if,als,als
-and,en,en
-well,nou,nou
-to seem,lijken,lijken
-to have lunch,lunchen,lunchen
-to enjoy,genieten,genieten
-to go down,naar beneden gaan,naar beneden gaan
-to attend,bijwonen,bijwonen
-to fall,vallen,vallen
-to fit,passen,passen
-to laugh,lachen,lachen
-fear,angst,angst
-pizza,pizza,pizza
-chocolate,chocolade,chocolade
-truth,waarheid,waarheid
-position,positie,positie
-voice,stem,stem
-sound,geluid,geluid
-translator,vertaler,vertaler
-pronunciation,uitspraak,uitspraak
-room,kamer,kamer
-doctor,dokter,dokter
-weather,weer,weer
-according to,volgens,volgens
-from,van,van
-of,van,van
-to complain,klagen,klagen
-with you,met jou,met jou
-who,wie,wie
-to sit,zitten,zitten
-early,vroeg,vroeg
+to drive,conducir,rijden
+to close,cerrar,sluiten
+to serve,servir,serveren
+to begin,comenzar,beginnen
+I'm sorry,lo siento,het spijt me
+to go for a walk,pasear,wandelen
+love,el amor,liefde
+to answer,contestar,antwoorden
+tired,cansado,moe
+to forget,olvidar,vergeten
+nothing,nada,niets
+to visit,visitar,bezoeken
+living room,la sala,woonkamer
+alone,solo,alleen
+heart,el corazón,hart
+to drive,manejar,rijden
+to repeat,repetir,herhalen
+to leave,irse,vertrekken
+notebook,el cuaderno,notitieboek
+cousin,el primo,neef
+to skate,patinar,schaatsen
+test,la prueba,test
+trip,el viaje,reis
+to shave,afeitarse,scheren
+appointment,la cita,afspraak
+to practice,practicar,oefenen
+who,quién,wie
+less,menos,minder
+bathroom,el baño,badkamer
+land,la tierra,land
+life,la vida,leven
+cereal,el cereal,granen
+short,corto,kort
+niece,la sobrina,nicht
+owner,el dueño,eigenaar
+sugar,el/la azúcar,suiker
+key,la llave,sleutel
+rug,la alfombra,tapijt
+friendship,la amistad,vriendschap
+soup,la sopa,soep
+onion,la cebolla,ui
+butter,la mantequilla,boter
+cap,la gorra,pet
+salary,el sueldo,salaris
+stone,la piedra,steen
+twenty-one,veintiuno,eenentwintig
+twenty-two,veintidós,tweeëntwintig
+twenty-three,veintitrés,drieëntwintig
+twenty-four,veinticuatro,vierentwintig
+twenty-five,veinticinco,vijfentwintig
+twenty-six,veintiséis,zesentwintig
+twenty-seven,veintisiete,zevenentwintig
+twenty-eight,veintiocho,achtentwintig
+twenty-nine,el veintinueve,negenentwintig
+thirty,el treinta,dertig
+forty,cuarenta,veertig
+fifty,cincuenta,vijftig
+sixty,sesenta,zestig
+seventy,setenta,zeventig
+eighty,ochenta,tachtig
+ninety,noventa,negentig
+one hundred and one,ciento uno,honderdeen
+two hundred,doscientos,tweehonderd
+three hundred,trescientos,driehonderd
+four hundred,cuatrocientos,vierhonderd
+five hundred,quinientos,vijfhonderd
+six hundred,seiscientos,zeshonderd
+seven hundred,el setecientos,zevenhonderd
+eight hundred,ochocientos,achthonderd
+nine hundred,novecientos,negenhonderd
+thousand,mil,duizend
+two thousand,dos mil,tweeduizend
+one hundred thousand,cien mil,honderdduizend
+two hundred thousand,doscientos mil,tweehonderdduizend
+million,el millón,miljoen
+fair,justo,eerlijk
+the day before yesterday,anteayer,eergisteren
+carrot,la zanahoria,wortel
+food,el alimento,voedsel
+red-haired,pelirrojo,roodharig
+fork,el tenedor,vork
+when,cuándo,wanneer
+employee,el empleado,werknemer
+ham,el jamón,ham
+brave,valiente,dapper
+mouse,el ratón,muis
+to sunbathe,tomar el sol,zonnen
+closed,cerrado,gesloten
+blanket,la manta,deken
+how much,cuánto,hoeveel
+to reduce,reducir,verminderen
+train,el tren,trein
+hat,el sombrero,hoed
+problem,el problema,probleem
+accountant,el contador,accountant
+climate,el clima,klimaat
+telephone,el teléfono,telefoon
+metro,el metro,metro
+where,dónde,waar
+company,la compañía,bedrijf
+map,el mapa,kaart
+pants,el pantalón,broek
+grape,la uva,druif
+scientist,el científico,wetenschapper
+player,el jugador,speler
+west,el oeste,westen
+untidy,desordenado,slordig
+crafts,la artesanía,ambachten
+cookie,la galleta,koekje
+housing,la vivienda,huisvesting
+shoe,el zapato,schoen
+hairdresser,el peluquero,kapper
+boot,la bota,laars
+customer,el cliente,klant
+grandparents,los abuelos,grootouders
+performance,la actuación,optreden
+shoe store,la zapatería,schoenenwinkel
+mathematics,las matemáticas,wiskunde
+free time,el tiempo libre,vrije tijd
+dance,la danza,dans
+important,importante,belangrijk
+meeting,la reunión,vergadering
+to pollute,contaminar,vervuilen
+yogurt,el yogur,yoghurt
+culture,la cultura,cultuur
+passport,el pasaporte,paspoort
+volleyball,el voleibol,volleybal
+musician,el músico,muzikant
+to listen to music,escuchar música,muziek luisteren
+documentary,el documental,documentaire
+better,mejor,beter
+like,como,zoals
+to leave,dejar,verlaten
+to hear,oír,horen
+thank you,gracias,dank je
+but,pero,maar
+already,ya,al
+to return,regresar,terugkeren
+this,este,deze
+check,la cuenta,rekening
+now,ahora,nu
+with,con,met
+to feel,sentirse,voelen
+birthday,el cumpleaños,verjaardag
+lazy,perezoso,lui
+ready,listo,klaar
+to add,añadir,toevoegen
+town,el pueblo,dorp
+often,a menudo,vaak
+to be born,nacer,geboren worden
+nephew,el sobrino,neef
+to run,dirigir,rennen
+lunch,el almuerzo,lunch
+last name,el apellido,achternaam
+pencil,el lápiz,potlood
+career,la carrera,carrière
+language,el idioma,taal
+to offer,ofrecer,aanbieden
+name,el nombre,naam
+desk,el escritorio,bureau
+very,muy,erg
+pain,el dolor,pijn
+maybe,tal vez,misschien
+ball,la pelota,bal
+to fight,luchar,vechten
+first,primero,eerste
+second,segundo,tweede
+third,tercero,derde
+fourth,cuarto,vierde
+fifth,quinto,vijfde
+sixth,sexto,zesde
+seventh,séptimo,zevende
+eighth,octavo,achtste
+ninth,noveno,negende
+tenth,décimo,tiende
+shame,la vergüenza,schaamte
+advice,el consejo,advies
+knife,el cuchillo,mes
+excuse me,perdón,excuseer me
+road,la carretera,weg
+to obtain,obtener,verkrijgen
+bad,mal,slecht
+pen,el bolígrafo,pen
+garlic,el ajo,knoflook
+student,el/la estudiante,student
+tasty,sabroso,smakelijk
+to act,actuar,acteren
+drama,el drama,drama
+arrival,la llegada,aankomst
+throat,la garganta,keel
+star,la estrella,ster
+stadium,el estadio,stadion
+pepper,la pimienta,peper
+to invite,invitar,uitnodigen
+athlete,el/la deportista,atleet
+blouse,la blusa,blouse
+to fall in love,enamorarse,verliefd worden
+corn,el maíz,maïs
+computer,el ordenador,computer
+design,el diseño,ontwerp
+image,la imagen,beeld
+package,el paquete,pakket
+elegant,elegante,elegant
+for example,por ejemplo,bijvoorbeeld
+medicine,la medicina,medicijn
+desert,el desierto,woestijn
+show,el espectáculo,show
+baseball,el béisbol,honkbal
+tea,el té,thee
+sculpture,la escultura,sculptuur
+jewelry store,la joyería,juwelier
+article,el artículo,artikel
+equality,la igualdad,gelijkheid
+education,la educación,onderwijs
+apartment,el apartamento,appartement
+dancer,el bailarín,danser
+recycling,el reciclaje,recycling
+sculptor,el escultor,beeldhouwer
+French,el francés,Frans
+volunteer,el voluntario,vrijwilliger
+toothpaste,la pasta de dientes,tandpasta
+product,el producto,product
+historical,histórico,historisch
+there,allá,daar
+night,la noche,nacht
+game,el juego,spel
+video game,el videojuego,videogame
+travel agency,la agencia de viajes,reisbureau
+to take out,sacar,uithalen
+to have fun,divertirse,plezier hebben
+well,bien,goed
+to achieve,lograr,bereiken
+almost,casi,bijna
+to use,usar,gebruiken
+to take care of,cuidar,zorgen voor
+face,la cara,gezicht
+homework,la tarea,huiswerk
+without,sin,zonder
+hair,el pelo,haar
+happy,feliz,gelukkig
+to save,guardar,opslaan
+little,poco,weinig
+angry,enojado,boos
+to fill,llenar,vullen
+watch,el reloj,horloge
+to cross,cruzar,oversteken
+fat,gordo,dik
+to prepare,preparar,voorbereiden
+worse,peor,slechter
+room,la habitación,kamer
+to develop,desarrollar,ontwikkelen
+horse,el caballo,paard
+trash,la basura,afval
+mail,el correo,post
+noise,el ruido,geluid
+grandson,el nieto,kleinzoon
+landscape,el paisaje,landschap
+poor,pobre,arm
+wife,la esposa,vrouw
+slow,lento,langzaam
+hall,el pasillo,hal
+thing,la cosa,ding
+magazine,la revista,tijdschrift
+husband,el esposo,man
+to snow,nevar,sneeuwen
+spoon,la cuchara,lepel
+stove,la estufa,fornuis
+to hate,odiar,haten
+to bargain,regatear,afdingen
+to record,grabar,opnemen
+to surprise,sorprender,verrassen
+close to,cerca de,dichtbij
+before,antes de,voor
+no,no,nee
+yes,sí,ja
+turkey,el pavo,kalkoen
+heavy,pesado,zwaar
+each,cada,elke
+my,mi,mijn
+all,todo,alles
+there,allí,daar
+close,cerca,dichtbij
+far,lejos,ver
+so much,tanto,zoveel
+so,tan,zo
+to have,haber,hebben
+nice to meet you,mucho gusto,aangenaam kennis te maken
+happy birthday,feliz cumpleaños,gelukkige verjaardag
+even though,aunque,hoewel
+while,mientras,terwijl
+if,si,als
+and,y,en
+well,pues,nou
+to seem,parecer,lijken
+to have lunch,almorzar,lunchen
+to enjoy,disfrutar,genieten
+to go down,bajar,naar beneden gaan
+to attend,asistir,bijwonen
+to fall,caer,vallen
+to fit,caber,passen
+to laugh,reír,lachen
+fear,el miedo,angst
+pizza,la pizza,pizza
+chocolate,el chocolate,chocolade
+truth,la verdad,waarheid
+position,el puesto,positie
+voice,la voz,stem
+sound,el sonido,geluid
+translator,el traductor,vertaler
+pronunciation,la pronunciación,uitspraak
+room,el cuarto,kamer
+doctor,el doctor,dokter
+weather,el tiempo,weer
+according to,según,volgens
+from,de,van
+of,de,van
+to complain,quejarse,klagen
+with you,contigo,met jou
+who,quien,wie
+to sit,sentarse,zitten
+early,temprano,vroeg
 to pass,passeren,passeren
-to translate,vertalen,vertalen
-to earn,verdienen,verdienen
-to clean,schoonmaken,schoonmaken
-to happen,gebeuren,gebeuren
-to treat,behandelen,behandelen
-to choose,kiezen,kiezen
-to return,teruggeven,teruggeven
-to stop,stoppen,stoppen
-to throw,gooien,gooien
-to feel,voelen,voelen
-to take away,wegnemen,wegnemen
-to turn in,inleveren,inleveren
-to finish,afmaken,afmaken
-to reach,bereiken,bereiken
-you're welcome,graag gedaan,graag gedaan
-please,alsjeblieft,alsjeblieft
-to,naar,naar
-things,dingen,dingen
-to order,bestellen,bestellen
-hurry,haast,haast
-up,omhoog,omhoog
-idea,idee,idee
-Hey!,Hé!,Hé!
-mango,mango,mango
-wave,golf,golf
-wish,wens,wens
-tail,staart,staart
-to approach,naderen,naderen
-rabbit,konijn,konijn
-both,beide,beide
-to hit,slaan,slaan
-purpose,doel,doel
-lost,verloren,verloren
-list,lijst,lijst
-China,China,China
-to pretend,doen alsof,doen alsof
-stick,stok,stok
-to pray,bidden,bidden
-legal,legaal,legaal
-to encourage,aanmoedigen,aanmoedigen
-scared,bang,bang
-nap,dutje,dutje
-bland,flauw,flauw
-lamb,lam,lam
-harvest,oogst,oogst
-drawer,lade,lade
-to bite,bijten,bijten
-translation,vertaling,vertaling
-to pursue,nastreven,nastreven
-demanding,veeleisend,veeleisend
-any,elk,elk
-piece,stuk,stuk
-to push,duwen,duwen
-treasure,schat,schat
-common,gewoon,gewoon
-pocket,zak,zak
-apology,verontschuldiging,verontschuldiging
-amazing,verbazingwekkend,verbazingwekkend
-wet,nat,nat
-favor,gunst,gunst
-to sew,naaien,naaien
-Australia,Australië,Australië
-bacon,spek,spek
-blind,blind,blind
-noun,zelfstandig naamwoord,zelfstandig naamwoord
-United States,Verenigde Staten,Verenigde Staten
-coconut,kokosnoot,kokosnoot
-German,Duits,Duits
-finger,vinger,vinger
-children,kinderen,kinderen
-to celebrate,vieren,vieren
-silent,stil,stil
-to damage,beschadigen,beschadigen
-ear,oor,oor
-healthy,gezond,gezond
-luggage,bagage,bagage
-weird,raar,raar
-accommodations,accommodatie,accommodatie
-to last,duren,duren
-government,regering,regering
-elevator,lift,lift
-to stop,stoppen met,stoppen met
-sociable,sociaal,sociaal
-washing machine,wasmachine,wasmachine
-keyboard,toetsenbord,toetsenbord
-storm,storm,storm
-news,nieuws,nieuws
-path,pad,pad
-tidy,opgeruimd,opgeruimd
-south,zuiden,zuiden
-to set the table,tafel dekken,tafel dekken
-driver,chauffeur,chauffeur
-to insist,aandringen,aandringen
-tuna,tonijn,tonijn
-computer,computer,computer
-program,programma,programma
-plant,plant,plant
-salesperson,verkoper,verkoper
-to take out the trash,vuilnis buiten zetten,vuilnis buiten zetten
-channel,kanaal,kanaal
-hobby,hobby,hobby
-offer,aanbieding,aanbieding
-poverty,armoede,armoede
-freedom,vrijheid,vrijheid
-destination,bestemming,bestemming
-delicious,heerlijk,heerlijk
-lively,levendig,levendig
-host,gastheer,gastheer
-in the morning,ochtend,ochtend
-garage,garage,garage
-impatient,ongeduldig,ongeduldig
-to investigate,onderzoeken,onderzoeken
-novel,roman,roman
-guide,gids,gids
-play,toneelstuk,toneelstuk
-after,na,na
-dentist,tandarts,tandarts
-to play sports,sporten,sporten
-calculator,rekenmachine,rekenmachine
-hurricane,orkaan,orkaan
-factory,fabriek,fabriek
-architecture,architectuur,architectuur
-transportation,transport,transport
-romantic,romantisch,romantisch
-classical,klassiek,klassiek
-menu,menu,menu
-that,dat,dat
-to hope,hopen,hopen
-to go up,omhoog gaan,omhoog gaan
-to walk,lopen,lopen
-to send,sturen,sturen
-east,oosten,oosten
-how,hoe,hoe
-to show,tonen,tonen
-here,hier,hier
-to wash,wassen,wassen
-to love,houden van,houden van
-to lend,lenen,lenen
-to fix,repareren,repareren
-same,zelfde,zelfde
-to ring,klinken,klinken
-word,woord,woord
-hopefully,hopelijk,hopelijk
-to understand,begrijpen,begrijpen
-to ask,vragen,vragen
-to avoid,vermijden,vermijden
-to cut,snijden,snijden
-letter,brief,brief
-clock,horloge,horloge
-more,meer,meer
+to translate,traducir,vertalen
+to earn,ganar,verdienen
+to clean,limpiar,schoonmaken
+to happen,pasar,gebeuren
+to treat,tratar,behandelen
+to choose,escoger,kiezen
+to return,devolver,teruggeven
+to stop,parar,stoppen
+to throw,echar,gooien
+to feel,sentir,voelen
+to take away,quitar,wegnemen
+to turn in,entregar,inleveren
+to finish,acabar,afmaken
+to reach,alcanzar,bereiken
+you're welcome,de nada,graag gedaan
+please,por favor,alsjeblieft
+to,a,naar
+things,las cosas,dingen
+to order,ordenar,bestellen
+hurry,la prisa,haast
+up,arriba,omhoog
+idea,la idea,idee
+Hey!,¡Oye!,Hé!
+mango,el mango,mango
+wave,la ola,golf
+wish,el deseo,wens
+tail,la cola,staart
+to approach,acercarse,naderen
+rabbit,el conejo,konijn
+both,ambos,beide
+to hit,golpear,slaan
+purpose,el propósito,doel
+lost,perdido,verloren
+list,la lista,lijst
+China,la China,China
+to pretend,fingir,doen alsof
+stick,el palo,stok
+to pray,rezar,bidden
+legal,legal,legaal
+to encourage,animar,aanmoedigen
+scared,asustado,bang
+nap,la siesta,dutje
+bland,soso,flauw
+lamb,el cordero,lam
+harvest,la cosecha,oogst
+drawer,el cajón,lade
+to bite,morder,bijten
+translation,la traducción,vertaling
+to pursue,perseguir,nastreven
+demanding,exigente,veeleisend
+any,cualquiera,elk
+piece,el pedazo,stuk
+to push,empujar,duwen
+treasure,el tesoro,schat
+common,común,gewoon
+pocket,el bolsillo,zak
+apology,la disculpa,verontschuldiging
+amazing,asombroso,verbazingwekkend
+wet,mojado,nat
+favor,el favor,gunst
+to sew,coser,naaien
+Australia,Australia,Australië
+bacon,el tocino,spek
+blind,ciego,blind
+noun,el sustantivo,zelfstandig naamwoord
+United States,Estados Unidos,Verenigde Staten
+coconut,el coco,kokosnoot
+German,el alemán,Duits
+finger,el dedo,vinger
+children,los hijos,kinderen
+to celebrate,celebrar,vieren
+silent,callado,stil
+to damage,dañar,beschadigen
+ear,la oreja,oor
+healthy,saludable,gezond
+luggage,el equipaje,bagage
+weird,raro,raar
+accommodations,el alojamiento,accommodatie
+to last,durar,duren
+government,el gobierno,regering
+elevator,el ascensor,lift
+to stop,dejar de,stoppen met
+sociable,sociable,sociaal
+washing machine,la lavadora,wasmachine
+keyboard,el teclado,toetsenbord
+storm,la tormenta,storm
+news,las noticias,nieuws
+path,el sendero,pad
+tidy,ordenado,opgeruimd
+south,el sur,zuiden
+to set the table,poner la mesa,tafel dekken
+driver,el conductor,chauffeur
+to insist,insistir,aandringen
+tuna,el atún,tonijn
+computer,la computadora,computer
+program,el programa,programma
+plant,la planta,plant
+salesperson,el vendedor,verkoper
+to take out the trash,sacar la basura,vuilnis buiten zetten
+channel,el canal,kanaal
+hobby,el pasatiempo,hobby
+offer,la oferta,aanbieding
+poverty,la pobreza,armoede
+freedom,la libertad,vrijheid
+destination,el destino,bestemming
+delicious,delicioso,heerlijk
+lively,animado,levendig
+host,el anfitrión,gastheer
+in the morning,por la mañana,'s ochtends
+garage,el garaje,garage
+impatient,impaciente,ongeduldig
+to investigate,investigar,onderzoeken
+novel,la novela,roman
+guide,el/la guía,gids
+play,la obra de teatro,toneelstuk
+after,después de,na
+dentist,el/la dentista,tandarts
+to play sports,practicar deportes,sporten
+calculator,la calculadora,rekenmachine
+hurricane,el huracán,orkaan
+factory,la fábrica,fabriek
+architecture,la arquitectura,architectuur
+transportation,el transporte,transport
+romantic,romántico,romantisch
+classical,clásico,klassiek
+menu,el menú,menu
+that,que,dat
+to hope,esperar,hopen
+to go up,subir,omhoog gaan
+to walk,andar,lopen
+to send,mandar,sturen
+east,el este,oosten
+how,cómo,hoe
+to show,mostrar,tonen
+here,aquí,hier
+to wash,lavar,wassen
+to love,encantar,houden van
+to lend,prestar,lenen
+to fix,arreglar,repareren
+same,mismo,zelfde
+to ring,sonar,klinken
+word,la palabra,woord
+hopefully,ojalá,hopelijk
+to understand,comprender,begrijpen
+to ask,preguntar,vragen
+to avoid,evitar,vermijden
+to cut,cortar,snijden
+letter,la carta,brief
+clock,el reloj,klok
+more,más,meer
