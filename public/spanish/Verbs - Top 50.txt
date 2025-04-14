@@ -1,50 +1,50 @@
-to come,venir
-to put,poner
-to see,ver
-to wake up,despertar
-to question,cuestionar
-to start,comenzar
-to write,escribir
-to turn into,convertir
-to wash,lavar
-to study,estudiar
-to wait for,esperar
-to ask for,pedir
-to get,conseguir
-to use,usar
-to sit,sentar
-to try,probar
-to cook,cocinar
-to dance,bailar
-to help,ayudar
-to contain,contener
-to need,necesitar
-to take,llevar
-to count,contar
-to look for,buscar
-to eat,comer
-to sleep,dormir
-to travel,viajar
-to have,haber
-to learn,aprender
-to hear,oír
-to take,tomar
-to call,llamar
-to walk,caminar
-to work,trabajar
-to know,conocer
-to play,jugar
-to know,saber
-to go out,salir
-to describe,describir
-to speak,hablar
-to like,gustar
-to buy,comprar
-to give,dar
-to want,querer
-to say,decir
-to have,tener
-to do,hacer
-to go,ir
-to be,estar
-to be,ser
+to come,venir,komen
+to put,poner,zetten
+to see,ver,zien
+to wake up,despertar,wakker worden
+to question,cuestionar,in twijfel trekken
+to start,comenzar,beginnen
+to write,escribir,schrijven
+to turn into,convertir,veranderen in
+to wash,lavar,wassen
+to study,estudiar,studeren
+to wait for,esperar,wachten op
+to ask for,pedir,vragen om
+to get,conseguir,krijgen
+to use,usar,gebruiken
+to sit,sentar,zitten
+to try,probar,proberen
+to cook,cocinar,koken
+to dance,bailar,dansen
+to help,ayudar,helpen
+to contain,contener,bevatten
+to need,necesitar,nodig hebben
+to take,llevar,nemen
+to count,contar,tellen
+to look for,buscar,zoeken naar
+to eat,comer,eten
+to sleep,dormir,slapen
+to travel,viajar,reizen
+to have,haber,hebben
+to learn,aprender,leren
+to hear,oír,horen
+to take,tomar,nemen
+to call,llamar,bellen
+to walk,caminar,lopen
+to work,trabajar,werken
+to know,conocer,kennen
+to play,jugar,spelen
+to know,saber,weten
+to go out,salir,uitgaan
+to describe,describir,beschrijven
+to speak,hablar,spreken
+to like,gustar,leuk vinden
+to buy,comprar,kopen
+to give,dar,geven
+to want,querer,willen
+to say,decir,zeggen
+to have,tener,hebben
+to do,hacer,doen
+to go,ir,gaan
+to be,estar,zijn
+to be,ser,zijn

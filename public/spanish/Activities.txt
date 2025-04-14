@@ -1,279 +1,279 @@
-to compete,competir
-to draw,dibujar
-to take photos,sacar fotos
-to play basketball,jugar al baloncesto
-to cook,cocinar
-to write,escribir
-to play sports,practicar deportes
-to play the piano,tocar el piano
-to dance,bailar
-to swim,nadar
-to fish,pescar
-to scuba dive,bucear
-to jog,trotar
-to sing,cantar
-to knit,tejer
-to go to the museum,ir al museo
-to collect coins,coleccionar monedas
-to play soccer,jugar al fútbol
-to play board games,jugar juegos de mesa
-to do yoga,hacer yoga
-to act,actuar
-to learn languages,aprender idiomas
-to make handicrafts,hacer manualidades
-to watch movies,ver películas
-to climb,trepar
-to hang out with friends,juntarse con amigos
-to go skydiving,hacer paracaidismo
-to skate,patinar
-to play,jugar
-to skip,brincar
-to jump,saltar
-to hop,saltar a la pata coja
-tag,el corre que te pillo
-to hide,esconder
-hide-and-seek,las escondidas
-swing,el columpio
-sandbox,el cajón de arena
-playground,el parque infantil
-to push,empujar
-to pull,jalar
-toy,el juguete
-Frisbee,el frisbee
-rope,la cuerda
-tree house,casa del árbol
-roller coaster,la montaña rusa
-Ferris wheel,la noria
-carousel,el carrusel
-slide,el tobogán
-bumper cars,carros chocones
-acrobat,el/la acróbata
-clown,el payaso
-popcorn,el popcorn
-costume,el disfraz
-stilt,el zanco
-trapeze,el trapecio
-magician,el mago
-juggler,el/la malabarista
-cotton candy,el dulce de algodón
-prize,el premio
-food court,plaza de comida
-games of chance,los juegos de azar
-to ride,montar
-fireworks,los fuegos artificiales
-arts and crafts,las manualidades
-to sunbathe,tomar el sol
-to tell stories,contar cuentos
-climbing,la escalada
-mountain climbing,el montañismo
-mountaineering,el alpinismo
-to play golf,jugar al golf
-to play volleyball,jugar al voleibol
-piccolo,el flautín
-to drive,conducir
-to shoot,disparar
-networking,la creación de una red de contactos
-to talk on the phone,hablar por teléfono
-to jump rope,saltar a la cuerda
-to play games,jugar juegos
-to warm up,calentar
-to hum,tararear
-to nap,descansar
-to take a nap,tomar una siesta
-editing,la edición
-to take pictures,tomar fotos
-manga,el manga
-track and field,el atletismo
-theater,el teatro
-to twerk,perrear
-magic,la magia
-album,el álbum
-cumbia,la cumbia
-doodle,el monigote
-ice skating,el patinaje sobre hielo
-saxophone,el saxofón
-bowling,los bolos
-to sleep,dormir
-to play chess,jugar al ajedrez
-to write stories,escribir cuentos
-gymnastics,la gimnasia
-to dance tango,bailar tango
-scooter,el monopatín
-skateboarding,el skateboard
-expert,el experto
-intermediate,de nivel intermedio
-beginner,el/la principiante
-horseback riding,la equitación
-piracy,la piratería
-softball,el sóftbol
-road trip,el viaje por carretera
-musical,el musical
-boxing,el boxeo
-flamenco,el flamenco
-to design,diseñar
-to run,correr
-cake,el pastel
-to collect,coleccionar
-paddle,la pala
-keyboard,el teclado
-to train,entrenarse
-to compose,componer
-to perform,interpretar
-hockey,el hockey
-to relax,relajarse
-to laugh,reír
-to rap,rapear
-to read magazines,leer revistas
-adventure,la aventura
-to go to the beach,ir a la playa
-to play the drums,tocar la batería
-to play baseball,jugar al béisbol
-wrestling,la lucha libre
-series,la serie
-surfing,el surfing
-philosophy,la filosofía
-to get a haircut,cortarse el pelo
-to pull a prank,hacer una travesura
-to work out,hacer ejercicio
-to ride a bike,montar en bici
-to ride a horse,montar a caballo
-to style one's hair,peinarse
-homework,la tarea
-housework,los quehaceres
-spare time,el tiempo libre
-fitness,el mantenimiento
-ceramics,la cerámica
-amusement park,el parque de atracciones
-squash,el squash
-interests,intereses
-coaching,el entrenamiento
-astrology,la astrología
-skiing,el esquí
-to text,enviar mensajes de texto
-radio,el radio
-to watch videos,ver videos
-crochet,el crochet
-knitting,la labor de punto
-sewing,la costura
-gardening,la jardinería
-handball,el balonmano
-fashion,la moda
-water sports,los deportes acuáticos
-dominoes,el dominó
-checkers,las damas
-chess,el ajedrez
-drama,el drama
-choir,el coro
-to study,estudiar
-to go for a walk,pasear
-roller skating,el patinaje sobre ruedas
-figure skating,el patinaje artístico
-to play video games,jugar videojuegos
-to play tennis,jugar al tenis
-to go to concerts,ir a conciertos
-match,el partido
-fishing,la pesca
-poetry,la poesía
-to tell jokes,contar chistes
-golf,el golf
-customs and traditions,costumbres y tradiciones
-to go camping,ir de camping
-to have fun,divertirse
-to play an instrument,tocar un instrumento
-scuba diving,el submarinismo
-diving,el buceo
-to walk,andar
-trekking,el trekking
-mountain biking,ciclismo de montaña
-biking,el ciclismo
-volleyball,el voleibol
-leisure,el ocio
-yoga,el yoga
-athletics,el atletismo
-to rehearse,ensayar
-essay,el ensayo
-watercolor painting,la acuarela
-oil painting,la pintura al óleo
-to read the newspaper,leer el periódico
-to watch the news,ver las noticias
-entertainment,el entretenimiento
-film,la película
-hiking,el senderismo
-to go to the library,ir a la biblioteca
-pastel,el dibujo al pastel
-to sketch,esbozar
-drawing,el dibujo
-dancing,el baile
-show,el show
-singing,el canto
-dice,los dados
-to watch TV,ver la tele
-rest,el descanso
-cruise,el crucero
-gambling,las apuestas
-pool,el billar
-martial art,la arte marcial
-to ski,esquiar
-song,la canción
-to play the guitar,tocar la guitarra
-to fly,volar
-things to do,cosas que hacer
-jigsaw puzzle,el puzzle
-pastime,el pasatiempo
-media,medios de comunicación
-organ,el órgano
-ball,la pelota
-team,el equipo
-video game,el videojuego
-practice,el entrenamiento
-photography,la fotografía
-kayak,el kayak
-canoe,la canoa
-sailing,la navegación a vela
-boat,el barco
-gym,el gimnasio
-character,el personaje
-to paint,pintar
-zoo,el zoo
-jogging,el jogging
-running,el pedestrismo
-World Cup,la Copa Mundial
-swimming,la natación
-program,el programa
-reading,la lectura
-outdoors,al aire libre
-horoscope,el horóscopo
-cinema,el cinema
-television,la televisión
-baseball,el béisbol
-culture,la cultura
-notebook,el cuaderno
-free time,el tiempo libre
-story,el cuento
-exercise,el ejercicio
-garden,el jardín
-football,el fútbol
-to color,colorear
-routine,la rutina
-basketball,el baloncesto
-dance,el baile
-bass,el bajo
-to read,leer
-movie,la película
-party,la fiesta
-games,los juegos
-book,el libro
-art,el arte
-tourism,el turismo
-to travel,viajar
-soccer,el fútbol
-conversation,la conversación
-cooking,la cocina
-shopping,las compras
-activity,la actividad
-chores,las tareas domésticas
-vacation,la vacación
-holidays,la vacación
-music,la música
-hobby,el hobby
-sports,los deportes
+to compete,competir,concurreren
+to draw,dibujar,tekenen
+to take photos,sacar fotos,foto's maken
+to play basketball,jugar al baloncesto,basketballen
+to cook,cocinar,koken
+to write,escribir,schrijven
+to play sports,practicar deportes,sporten
+to play the piano,tocar el piano,piano spelen
+to dance,bailar,dansen
+to swim,nadar,zwemmen
+to fish,pescar,vissen
+to scuba dive,bucear,duiken
+to jog,trotar,joggen
+to sing,cantar,zingen
+to knit,tejer,breien
+to go to the museum,ir al museo,naar het museum gaan
+to collect coins,coleccionar monedas,munten verzamelen
+to play soccer,jugar al fútbol,voetballen
+to play board games,jugar juegos de mesa,bordspellen spelen
+to do yoga,hacer yoga,yoga doen
+to act,actuar,acteren
+to learn languages,aprender idiomas,talen leren
+to make handicrafts,hacer manualidades,handwerken
+to watch movies,ver películas,films kijken
+to climb,trepar,klimmen
+to hang out with friends,juntarse con amigos,met vrienden omgaan
+to go skydiving,hacer paracaidismo,parachute springen
+to skate,patinar,schaatsen
+to play,jugar,spelen
+to skip,brincar,overslaan
+to jump,saltar,springen
+to hop,saltar a la pata coja,hinkelen
+tag,el corre que te pillo,tikkertje
+to hide,esconder,verstoppen
+hide-and-seek,las escondidas,verstoppertje
+swing,el columpio,schommel
+sandbox,el cajón de arena,zandbak
+playground,el parque infantil,speeltuin
+to push,empujar,duwen
+to pull,jalar,trekken
+toy,el juguete,speelgoed
+Frisbee,el frisbee,frisbee
+rope,la cuerda,touw
+tree house,casa del árbol,boomhut
+roller coaster,la montaña rusa,achtbaan
+Ferris wheel,la noria,reuzenrad
+carousel,el carrusel,carrousel
+slide,el tobogán,glijbaan
+bumper cars,carros chocones,botsauto's
+acrobat,el/la acróbata,acrobaat
+clown,el payaso,clown
+popcorn,el popcorn,popcorn
+costume,el disfraz,kostuum
+stilt,el zanco,stelt
+trapeze,el trapecio,trapeze
+magician,el mago,goochelaar
+juggler,el/la malabarista,jongleur
+cotton candy,el dulce de algodón,suikerspin
+prize,el premio,prijs
+food court,plaza de comida,food court
+games of chance,los juegos de azar,kansspelen
+to ride,montar,rijden
+fireworks,los fuegos artificiales,vuurwerk
+arts and crafts,las manualidades,knutselen
+to sunbathe,tomar el sol,zonnen
+to tell stories,contar cuentos,verhalen vertellen
+climbing,la escalada,klimmen
+mountain climbing,el montañismo,bergbeklimmen
+mountaineering,el alpinismo,bergsport
+to play golf,jugar al golf,golfen
+to play volleyball,jugar al voleibol,volleyballen
+piccolo,el flautín,piccolo
+to drive,conducir,rijden
+to shoot,disparar,schieten
+networking,la creación de una red de contactos,netwerken
+to talk on the phone,hablar por teléfono,telefoneren
+to jump rope,saltar a la cuerda,touwtje springen
+to play games,jugar juegos,spelletjes spelen
+to warm up,calentar,opwarmen
+to hum,tararear,neuriën
+to nap,descansar,dutten
+to take a nap,tomar una siesta,een dutje doen
+editing,la edición,bewerken
+to take pictures,tomar fotos,foto's nemen
+manga,el manga,manga
+track and field,el atletismo,atletiek
+theater,el teatro,theater
+to twerk,perrear,twerken
+magic,la magia,magie
+album,el álbum,album
+cumbia,la cumbia,cumbia
+doodle,el monigote,krabbel
+ice skating,el patinaje sobre hielo,schaatsen
+saxophone,el saxofón,saxofoon
+bowling,los bolos,bowlen
+to sleep,dormir,slapen
+to play chess,jugar al ajedrez,schaken
+to write stories,escribir cuentos,verhalen schrijven
+gymnastics,la gimnasia,gymnastiek
+to dance tango,bailar tango,tango dansen
+scooter,el monopatín,step
+skateboarding,el skateboard,skateboarden
+expert,el experto,expert
+intermediate,de nivel intermedio,gemiddeld
+beginner,el/la principiante,beginner
+horseback riding,la equitación,paardrijden
+piracy,la piratería,piraterij
+softball,el sóftbol,softbal
+road trip,el viaje por carretera,roadtrip
+musical,el musical,musical
+boxing,el boxeo,boksen
+flamenco,el flamenco,flamenco
+to design,diseñar,ontwerpen
+to run,correr,rennen
+cake,el pastel,taart
+to collect,coleccionar,verzamelen
+paddle,la pala,peddel
+keyboard,el teclado,toetsenbord
+to train,entrenarse,trainen
+to compose,componer,componeren
+to perform,interpretar,optreden
+hockey,el hockey,hockey
+to relax,relajarse,ontspannen
+to laugh,reír,lachen
+to rap,rapear,rappen
+to read magazines,leer revistas,tijdschriften lezen
+adventure,la aventura,avontuur
+to go to the beach,ir a la playa,naar het strand gaan
+to play the drums,tocar la batería,drummen
+to play baseball,jugar al béisbol,honkballen
+wrestling,la lucha libre,worstelen
+series,la serie,serie
+surfing,el surfing,surfen
+philosophy,la filosofía,filosofie
+to get a haircut,cortarse el pelo,naar de kapper gaan
+to pull a prank,hacer una travesura,een grap uithalen
+to work out,hacer ejercicio,trainen
+to ride a bike,montar en bici,fietsen
+to ride a horse,montar a caballo,paardrijden
+to style one's hair,peinarse,haar stylen
+homework,la tarea,huiswerk
+housework,los quehaceres,huishoudelijk werk
+spare time,el tiempo libre,vrije tijd
+fitness,el mantenimiento,fitness
+ceramics,la cerámica,keramiek
+amusement park,el parque de atracciones,pretpark
+squash,el squash,squash
+interests,intereses,interesses
+coaching,el entrenamiento,coaching
+astrology,la astrología,astrologie
+skiing,el esquí,skiën
+to text,enviar mensajes de texto,sms'en
+radio,el radio,radio
+to watch videos,ver videos,video's kijken
+crochet,el crochet,haken
+knitting,la labor de punto,breien
+sewing,la costura,naaien
+gardening,la jardinería,tuinieren
+handball,el balonmano,handbal
+fashion,la moda,mode
+water sports,los deportes acuáticos,watersport
+dominoes,el dominó,domino
+checkers,las damas,dammen
+chess,el ajedrez,schaken
+drama,el drama,drama
+choir,el coro,koor
+to study,estudiar,studeren
+to go for a walk,pasear,wandelen
+roller skating,el patinaje sobre ruedas,rolschaatsen
+figure skating,el patinaje artístico,kunstschaatsen
+to play video games,jugar videojuegos,videogames spelen
+to play tennis,jugar al tenis,tennissen
+to go to concerts,ir a conciertos,naar concerten gaan
+match,el partido,wedstrijd
+fishing,la pesca,vissen
+poetry,la poesía,poëzie
+to tell jokes,contar chistes,grappen vertellen
+golf,el golf,golf
+customs and traditions,costumbres y tradiciones,gewoonten en tradities
+to go camping,ir de camping,kamperen
+to have fun,divertirse,plezier hebben
+to play an instrument,tocar un instrumento,een instrument bespelen
+scuba diving,el submarinismo,duiken
+diving,el buceo,duiken
+to walk,andar,lopen
+trekking,el trekking,trekking
+mountain biking,ciclismo de montaña,mountainbiken
+biking,el ciclismo,fietsen
+volleyball,el voleibol,volleybal
+leisure,el ocio,vrije tijd
+yoga,el yoga,yoga
+athletics,el atletismo,atletiek
+to rehearse,ensayar,repeteren
+essay,el ensayo,essay
+watercolor painting,la acuarela,aquarel schilderen
+oil painting,la pintura al óleo,olieverf schilderen
+to read the newspaper,leer el periódico,de krant lezen
+to watch the news,ver las noticias,het nieuws kijken
+entertainment,el entretenimiento,entertainment
+film,la película,film
+hiking,el senderismo,wandelen
+to go to the library,ir a la biblioteca,naar de bibliotheek gaan
+pastel,el dibujo al pastel,pastel tekenen
+to sketch,esbozar,schetsen
+drawing,el dibujo,tekenen
+dancing,el baile,dansen
+show,el show,show
+singing,el canto,zingen
+dice,los dados,dobbelstenen
+to watch TV,ver la tele,tv kijken
+rest,el descanso,rust
+cruise,el crucero,cruise
+gambling,las apuestas,gokken
+pool,el billar,poolen
+martial art,la arte marcial,vechtsport
+to ski,esquiar,skiën
+song,la canción,lied
+to play the guitar,tocar la guitarra,gitaar spelen
+to fly,volar,vliegen
+things to do,cosas que hacer,dingen om te doen
+jigsaw puzzle,el puzzle,legpuzzel
+pastime,el pasatiempo,tijdverdrijf
+media,medios de comunicación,media
+organ,el órgano,orgel
+ball,la pelota,bal
+team,el equipo,team
+video game,el videojuego,videogame
+practice,el entrenamiento,oefenen
+photography,la fotografía,fotografie
+kayak,el kayak,kajak
+canoe,la canoa,kano
+sailing,la navegación a vela,zeilen
+boat,el barco,boot
+gym,el gimnasio,sportschool
+character,el personaje,personage
+to paint,pintar,schilderen
+zoo,el zoo,dierentuin
+jogging,el jogging,joggen
+running,el pedestrismo,rennen
+World Cup,la Copa Mundial,Wereldbeker
+swimming,la natación,zwemmen
+program,el programa,programma
+reading,la lectura,lezen
+outdoors,al aire libre,buiten
+horoscope,el horóscopo,horoscoop
+cinema,el cinema,bioscoop
+television,la televisión,televisie
+baseball,el béisbol,honkbal
+culture,la cultura,cultuur
+notebook,el cuaderno,notitieboek
+free time,el tiempo libre,vrije tijd
+story,el cuento,verhaal
+exercise,el ejercicio,oefening
+garden,el jardín,tuin
+football,el fútbol,voetbal
+to color,colorear,kleuren
+routine,la rutina,routine
+basketball,el baloncesto,basketbal
+dance,el baile,dans
+bass,el bajo,bas
+to read,leer,lezen
+movie,la película,film
+party,la fiesta,feest
+games,los juegos,spelletjes
+book,el libro,boek
+art,el arte,kunst
+tourism,el turismo,toerisme
+to travel,viajar,reizen
+soccer,el fútbol,voetbal
+conversation,la conversación,gesprek
+cooking,la cocina,koken
+shopping,las compras,winkelen
+activity,la actividad,activiteit
+chores,las tareas domésticas,klusjes
+vacation,la vacación,vakantie
+holidays,la vacación,vakantie
+music,la música,muziek
+hobby,el hobby,hobby
+sports,los deportes,sport

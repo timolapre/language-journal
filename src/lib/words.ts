@@ -1,19 +1,26 @@
 import fs from 'fs';
 import path from 'path';
 
+// Define the languages explicitly
+export type Language = 'english' | 'spanish' | 'dutch';
+
+// Update the WordPair interface to handle three languages, making Dutch optional
 export interface WordPair {
-  word: string;
-  translation: string;
+  english: string;
+  spanish: string;
+  dutch?: string; // Make dutch optional
 }
 
 /**
  * Reads and parses a category word file.
- * Assumes file format: "word,translation" per line.
+ * Assumes file format: "english,spanish" or "english,spanish,dutch" per line.
  * @param category The category name (without .txt extension)
  * @returns An array of WordPair objects or null if the file is not found or empty/invalid.
  */
 export function getCategoryWords(category: string): WordPair[] | null {
   const decodedCategory = decodeURIComponent(category);
+  // Keep the path logic, assuming files are still under /public/spanish/ for now
+  // TODO: Consider renaming the directory if it now contains more than just Spanish
   const filePath = path.join(process.cwd(), `./public/spanish/${decodedCategory}.txt`);
 
   try {
@@ -27,17 +34,23 @@ export function getCategoryWords(category: string): WordPair[] | null {
 
     const words = lines.map(line => {
       const parts = line.split(','); // Use comma as separator
-      const word = parts[0]?.trim();
-      const translation = parts[1]?.trim();
+      const english = parts[0]?.trim();
+      const spanish = parts[1]?.trim();
+      const dutch = parts[2]?.trim(); // Get Dutch if present
 
-      // Basic validation: Ensure both parts exist after splitting
-      if (word && translation) {
-        return {
-          word: word,
-          translation: translation
-        };
+      // Basic validation: Ensure at least English and Spanish exist
+      if (english && spanish) {
+          const pair: WordPair = {
+              english: english,
+              spanish: spanish,
+          };
+          // Add Dutch only if it exists and is not empty
+          if (dutch) {
+              pair.dutch = dutch;
+          }
+          return pair;
       } else {
-          console.warn(`Invalid line format in ${decodedCategory}.txt: "${line}"`);
+          console.warn(`Invalid line format (expected at least 2 parts) in ${decodedCategory}.txt: "${line}"`);
           return null; // Indicate invalid line
       }
     }).filter((pair): pair is WordPair => pair !== null); // Filter out invalid lines and assert type
@@ -53,4 +66,22 @@ export function getCategoryWords(category: string): WordPair[] | null {
     }
     return null; // Indicate file not found or other read error
   }
+}
+
+/**
+ * Gets a list of available category names (filenames without extension).
+ * TODO: Consider renaming the directory if it now contains more than just Spanish
+ * @returns An array of category names.
+ */
+export function getCategoryNames(): string[] {
+    const directoryPath = path.join(process.cwd(), './public/spanish');
+    try {
+        const files = fs.readdirSync(directoryPath);
+        return files
+            .filter(file => file.endsWith('.txt'))
+            .map(file => file.replace('.txt', ''));
+    } catch (error) {
+        console.error('Error reading category directory:', error);
+        return [];
+    }
 } 

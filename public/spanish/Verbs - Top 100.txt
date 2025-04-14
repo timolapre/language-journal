@@ -1,100 +1,100 @@
-to send,enviar
-to come,venir
-to put,poner
-to see,ver
-to pay,pagar
-to owe,deber
-to win,ganar
-to ski,esquiar
-to listen to,escuchar
-to enter,entrar
-to love,encantar
-to cut,cortar
-to brush,cepillar
-to fix,arreglar
-to walk,andar
-to sell,vender
-to bring,traer
-to lose,perder
-to fall,caer
-to wear,vestir
-to go up,subir
-to laugh,reír
-to prefer,preferir
-to drive,conducir
-to fly,volar
-to be left,quedar
-to show,mostrar
-to throw,echar
-to leave,dejar
-to take care of,cuidar
-to put to bed,acostar
-to rain,llover
-to read,leer
-to run,correr
-to introduce,presentar
-to paint,pintar
-to look at,mirar
-to fight,luchar
-to arrive,llegar
-to raise,levantar
-to find,encontrar
-to start,empezar
-to love,amar
-to understand,entender
-to drink,beber
-to live,vivir
-to feel,sentir
-to visit,visitar
-to ask,preguntar
-to think,pensar
-to pass,pasar
-to order,mandar
-to clean,limpiar
-to wake up,despertar
-to question,cuestionar
-to start,comenzar
-to write,escribir
-to turn into,convertir
-to wash,lavar
-to study,estudiar
-to wait for,esperar
-to ask for,pedir
-to get,conseguir
-to use,usar
-to sit,sentar
-to try,probar
-to cook,cocinar
-to dance,bailar
-to help,ayudar
-to contain,contener
-to need,necesitar
-to take,llevar
-to count,contar
-to look for,buscar
-to eat,comer
-to sleep,dormir
-to travel,viajar
-to have,haber
-to learn,aprender
-to hear,oír
-to take,tomar
-to call,llamar
-to walk,caminar
-to work,trabajar
-to know,conocer
-to play,jugar
-to know,saber
-to go out,salir
-to describe,describir
-to speak,hablar
-to like,gustar
-to buy,comprar
-to give,dar
-to want,querer
-to say,decir
-to have,tener
-to do,hacer
-to go,ir
-to be,estar
-to be,ser
+to send,enviar,verzenden
+to come,venir,komen
+to put,poner,zetten
+to see,ver,zien
+to pay,pagar,betalen
+to owe,deber,verschuldigd zijn
+to win,ganar,winnen
+to ski,esquiar,skiën
+to listen to,escuchar,luisteren naar
+to enter,entrar,binnenkomen
+to love,encantar,houden van
+to cut,cortar,snijden
+to brush,cepillar,borstelen
+to fix,arreglar,repareren
+to walk,andar,lopen
+to sell,vender,verkopen
+to bring,traer,brengen
+to lose,perder,verliezen
+to fall,caer,vallen
+to wear,vestir,dragen
+to go up,subir,omhoog gaan
+to laugh,reír,lachen
+to prefer,preferir,verkiezen
+to drive,conducir,rijden
+to fly,volar,vliegen
+to be left,quedar,overblijven
+to show,mostrar,tonen
+to throw,echar,gooien
+to leave,dejar,verlaten
+to take care of,cuidar,zorgen voor
+to put to bed,acostar,naar bed brengen
+to rain,llover,regenen
+to read,leer,lezen
+to run,correr,rennen
+to introduce,presentar,voorstellen
+to paint,pintar,schilderen
+to look at,mirar,kijken naar
+to fight,luchar,vechten
+to arrive,llegar,aankomen
+to raise,levantar,optillen
+to find,encontrar,vinden
+to start,empezar,beginnen
+to love,amar,houden van
+to understand,entender,begrijpen
+to drink,beber,drinken
+to live,vivir,leven
+to feel,sentir,voelen
+to visit,visitar,bezoeken
+to ask,preguntar,vragen
+to think,pensar,denken
+to pass,pasar,passeren
+to order,mandar,bestellen
+to clean,limpiar,schoonmaken
+to wake up,despertar,wakker worden
+to question,cuestionar,in twijfel trekken
+to start,comenzar,beginnen
+to write,escribir,schrijven
+to turn into,convertir,veranderen in
+to wash,lavar,wassen
+to study,estudiar,studeren
+to wait for,esperar,wachten op
+to ask for,pedir,vragen om
+to get,conseguir,krijgen
+to use,usar,gebruiken
+to sit,sentar,zitten
+to try,probar,proberen
+to cook,cocinar,koken
+to dance,bailar,dansen
+to help,ayudar,helpen
+to contain,contener,bevatten
+to need,necesitar,nodig hebben
+to take,llevar,nemen
+to count,contar,tellen
+to look for,buscar,zoeken naar
+to eat,comer,eten
+to sleep,dormir,slapen
+to travel,viajar,reizen
+to have,haber,hebben
+to learn,aprender,leren
+to hear,oír,horen
+to take,tomar,nemen
+to call,llamar,bellen
+to walk,caminar,lopen
+to work,trabajar,werken
+to know,conocer,kennen
+to play,jugar,spelen
+to know,saber,weten
+to go out,salir,uitgaan
+to describe,describir,beschrijven
+to speak,hablar,spreken
+to like,gustar,leuk vinden
+to buy,comprar,kopen
+to give,dar,geven
+to want,querer,willen
+to say,decir,zeggen
+to have,tener,hebben
+to do,hacer,doen
+to go,ir,gaan
+to be,estar,zijn
+to be,ser,zijn

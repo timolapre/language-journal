@@ -1,250 +1,250 @@
-to compete,competir
-to teach,enseñar
-to send,enviar
-to come,venir
-to put,poner
-to see,ver
-to pay,pagar
-to challenge,desafiar
-to spell,deletrear
-to cure,curar
-to cross,cruzar
-to raise,criar
-to cost,costar
-to copy,copiar
-to answer,contestar
-to connect,conectar
-to check,comprobar
-to charge for,cobrar
-to encode,cifrar
-to celebrate,celebrar
-to hunt,cazar
-to tire,cansar
-to keep quiet,callar
-to heat,calentar
-to scuba dive,bucear
-to joke,bromear
-to bathe,bañar
-to go down,bajar
-to advance,avanzar
-to increase,aumentar
-to howl,aullar
-to catch,atrapar
-to attack,atacar
-to finish,apurar
-to take advantage of,aprovechar
-to press,apretar
-to crush,aplastar
-to turn off,apagar
-to accommodate,alojar
-to reach,alcanzar
-to add,agregar
-to shave,afeitarse
-to accumulate,acumular
-to act,actuar
-to advise,aconsejar
-to go with,acompañar
-to finish,acabar
-to tackle,abordar
-to return,volver
-to happen,suceder
-to travel around,recorrer
-to stay,permanecer
-to smell,oler
-to turn on,encender
-to hurt,doler
-to return,devolver
-to believe,creer
-to sew,coser
-to transmit,transmitir
-to gather,reunir
-to escape,huir
-to pretend,fingir
-to choose,elegir
-to amuse,divertir
-to say goodbye to,despedir
-to discover,descubrir
-to decide,decidir
-to treat,tratar
-to transport,transportar
-to touch,tocar
-to dry,secar
-to relax,relajarse
-to plan,proyectar
-to plan,programar
-to prepare,preparar
-to plan,planificar
-to hate,odiar
-to snow,nevar
-to change,mudar
-to improve,mejorar
-to kill,matar
-to swear,jurar
-to begin,iniciar
-to matter,importar
-to bake,hornear
-to fix,fijar
-to turn in,entregar
-to take a shower,ducharse
-to enjoy,disfrutar
-to rest,descansar
-to have breakfast,desayunar
-to develop,desarrollar
-to create,crear
-to trust in,confiar en
-to complete,completar
-to place,colocar
-to close,cerrar
-to have dinner,cenar
-to sing,cantar
-to kiss,besar
-to find out,averiguar
-to support,apoyar
-to encourage,animar
-to threaten,amenazar
-to rent,alquilar
-to adore,adorar
-to cuddle,acurrucar
-to camp,acampar
-to surprise,sorprender
-to use to,soler
-to move,mover
-to dare,atreverse
-to turn up,aparecer
-to serve,servir
-to die,morir
-to vote,votar
-to say hello to,saludar
-to jump,saltar
-to remember,recordar
-to worry,preocupar
-to practice,practicar
-to sting,picar
-to fish,pescar
-to comb,peinar
-to stop,parar
-to forget,olvidar
-to bother,molestar
-to cry,llorar
-to fill,llenar
-to retire,jubilarse
-to interest,interesar
-to put away,guardar
-to record,grabar
-to turn,girar
-to spend,gastar
-to train,entrenar
-to draw,dibujar
-to want,desear
-to marry,casar
-to change,cambiar
-to have lunch,almorzar
-to cheer up,alegrar
-to pet,acariciar
-to break,romper
-to seem,parecer
-to be born,nacer
-to grow,crecer
-to follow,seguir
-to happen,ocurrir
-to build,construir
-to attend,asistir
-to open,abrir
-to swim,nadar
-to ride,montar
-to shout,gritar
-to win,ganar
-to ski,esquiar
-to listen to,escuchar
-to enter,entrar
-to love,encantar
-to cut,cortar
-to brush,cepillar
-to fix,arreglar
-to walk,andar
-to sell,vender
-to bring,traer
-to lose,perder
-to fall,caer
-to wear,vestir
-to go up,subir
-to laugh,reír
-to prefer,preferir
-to lead,conducir
-to fly,volar
-to be left,quedar
-to show,mostrar
-to throw,echar
-to leave,dejar
-to take care of,cuidar
-to put to bed,acostar
-to rain,llover
-to read,leer
-to run,correr
-to introduce,presentar
-to paint,pintar
-to look at,mirar
-to fight,luchar
-to arrive,llegar
-to raise,levantar
-to find,encontrar
-to start,empezar
-to love,amar
-to understand,entender
-to owe,deber
-to drink,beber
-to live,vivir
-to feel,sentir
-to visit,visitar
-to ask,preguntar
-to think,pensar
-to pass,pasar
-to order,mandar
-to clean,limpiar
-to wake up,despertar
-to question,cuestionar
-to start,comenzar
-to write,escribir
-to turn into,convertir
-to wash,lavar
-to study,estudiar
-to wait for,esperar
-to ask for,pedir
-to get,conseguir
-to use,usar
-to sit,sentar
-to try,probar
-to cook,cocinar
-to dance,bailar
-to help,ayudar
-to contain,contener
-to need,necesitar
-to take,llevar
-to count,contar
-to look for,buscar
-to eat,comer
-to sleep,dormir
-to travel,viajar
-to have,haber
-to learn,aprender
-to hear,oír
-to take,tomar
-to call,llamar
-to walk,caminar
-to work,trabajar
-to know,conocer
-to play,jugar
-to know,saber
-to go out,salir
-to describe,describir
-to speak,hablar
-to like,gustar
-to buy,comprar
-to give,dar
-to want,querer
-to say,decir
-to have,tener
-to do,hacer
-to go,ir
-to be,estar
-to be,ser
+to compete,competir,concurreren
+to teach,enseñar,onderwijzen
+to send,enviar,verzenden
+to come,venir,komen
+to put,poner,zetten
+to see,ver,zien
+to pay,pagar,betalen
+to challenge,desafiar,uitdagen
+to spell,deletrear,spellen
+to cure,curar,genezen
+to cross,cruzar,oversteken
+to raise,criar,opvoeden
+to cost,costar,kosten
+to copy,copiar,kopiëren
+to answer,contestar,antwoorden
+to connect,conectar,verbinden
+to check,comprobar,controleren
+to charge for,cobrar,in rekening brengen
+to encode,cifrar,versleutelen
+to celebrate,celebrar,vieren
+to hunt,cazar,jagen
+to tire,cansar,vermoeien
+to keep quiet,callar,stilhouden
+to heat,calentar,verwarmen
+to scuba dive,bucear,duiken
+to joke,bromear,grappen maken
+to bathe,bañar,baden
+to go down,bajar,naar beneden gaan
+to advance,avanzar,vooruitgaan
+to increase,aumentar,verhogen
+to howl,aullar,huilen
+to catch,atrapar,vangen
+to attack,atacar,aanvallen
+to finish,apurar,afmaken
+to take advantage of,aprovechar,profiteren van
+to press,apretar,drukken
+to crush,aplastar,verpletteren
+to turn off,apagar,uitzetten
+to accommodate,alojar,onderbrengen
+to reach,alcanzar,bereiken
+to add,agregar,toevoegen
+to shave,afeitarse,scheren
+to accumulate,acumular,ophopen
+to act,actuar,acteren
+to advise,aconsejar,adviseren
+to go with,acompañar,vergezellen
+to finish,acabar,afmaken
+to tackle,abordar,aanpakken
+to return,volver,terugkeren
+to happen,suceder,gebeuren
+to travel around,recorrer,rondreizen
+to stay,permanecer,blijven
+to smell,oler,ruiken
+to turn on,encender,aanzetten
+to hurt,doler,pijn doen
+to return,devolver,teruggeven
+to believe,creer,geloven
+to sew,coser,naaien
+to transmit,transmitir,overbrengen
+to gather,reunir,verzamelen
+to escape,huir,ontsnappen
+to pretend,fingir,doen alsof
+to choose,elegir,kiezen
+to amuse,divertir,vermaken
+to say goodbye to,despedir,afscheid nemen van
+to discover,descubrir,ontdekken
+to decide,decidir,beslissen
+to treat,tratar,behandelen
+to transport,transportar,vervoeren
+to touch,tocar,aanraken
+to dry,secar,drogen
+to relax,relajarse,ontspannen
+to plan,proyectar,plannen
+to plan,programar,plannen
+to prepare,preparar,voorbereiden
+to plan,planificar,plannen
+to hate,odiar,haten
+to snow,nevar,sneeuwen
+to change,mudar,veranderen
+to improve,mejorar,verbeteren
+to kill,matar,doden
+to swear,jurar,zweren
+to begin,iniciar,beginnen
+to matter,importar,belangrijk zijn
+to bake,hornear,bakken
+to fix,fijar,vastzetten
+to turn in,entregar,inleveren
+to take a shower,ducharse,douchen
+to enjoy,disfrutar,genieten
+to rest,descansar,rusten
+to have breakfast,desayunar,ontbijten
+to develop,desarrollar,ontwikkelen
+to create,crear,creëren
+to trust in,confiar en,vertrouwen op
+to complete,completar,voltooien
+to place,colocar,plaatsen
+to close,cerrar,sluiten
+to have dinner,cenar,dineren
+to sing,cantar,zingen
+to kiss,besar,kussen
+to find out,averiguar,uitzoeken
+to support,apoyar,ondersteunen
+to encourage,animar,aanmoedigen
+to threaten,amenazar,bedreigen
+to rent,alquilar,huren
+to adore,adorar,aanbidden
+to cuddle,acurrucar,knuffelen
+to camp,acampar,kamperen
+to surprise,sorprender,verrassen
+to use to,soler,gewoon zijn
+to move,mover,bewegen
+to dare,atreverse,durven
+to turn up,aparecer,verschijnen
+to serve,servir,serveren
+to die,morir,sterven
+to vote,votar,stemmen
+to say hello to,saludar,groeten
+to jump,saltar,springen
+to remember,recordar,herinneren
+to worry,preocupar,zorgen maken
+to practice,practicar,oefenen
+to sting,picar,steken
+to fish,pescar,vissen
+to comb,peinar,kammen
+to stop,parar,stoppen
+to forget,olvidar,vergeten
+to bother,molestar,lastigvallen
+to cry,llorar,huilen
+to fill,llenar,vullen
+to retire,jubilarse,met pensioen gaan
+to interest,interesar,interesseren
+to put away,guardar,opbergen
+to record,grabar,opnemen
+to turn,girar,draaien
+to spend,gastar,uitgeven
+to train,entrenar,trainen
+to draw,dibujar,tekenen
+to want,desear,wensen
+to marry,casar,trouwen
+to change,cambiar,veranderen
+to have lunch,almorzar,lunchen
+to cheer up,alegrar,opvrolijken
+to pet,acariciar,aaien
+to break,romper,breken
+to seem,parecer,lijken
+to be born,nacer,geboren worden
+to grow,crecer,groeien
+to follow,seguir,volgen
+to happen,ocurrir,gebeuren
+to build,construir,bouwen
+to attend,asistir,bijwonen
+to open,abrir,openen
+to swim,nadar,zwemmen
+to ride,montar,rijden
+to shout,gritar,schreeuwen
+to win,ganar,winnen
+to ski,esquiar,skiën
+to listen to,escuchar,luisteren naar
+to enter,entrar,binnenkomen
+to love,encantar,houden van
+to cut,cortar,snijden
+to brush,cepillar,borstelen
+to fix,arreglar,repareren
+to walk,andar,lopen
+to sell,vender,verkopen
+to bring,traer,brengen
+to lose,perder,verliezen
+to fall,caer,vallen
+to wear,vestir,dragen
+to go up,subir,omhoog gaan
+to laugh,reír,lachen
+to prefer,preferir,verkiezen
+to lead,conducir,leiden
+to fly,volar,vliegen
+to be left,quedar,overblijven
+to show,mostrar,tonen
+to throw,echar,gooien
+to leave,dejar,verlaten
+to take care of,cuidar,zorgen voor
+to put to bed,acostar,naar bed brengen
+to rain,llover,regenen
+to read,leer,lezen
+to run,correr,rennen
+to introduce,presentar,voorstellen
+to paint,pintar,schilderen
+to look at,mirar,kijken naar
+to fight,luchar,vechten
+to arrive,llegar,aankomen
+to raise,levantar,optillen
+to find,encontrar,vinden
+to start,empezar,beginnen
+to love,amar,houden van
+to understand,entender,begrijpen
+to owe,deber,verschuldigd zijn
+to drink,beber,drinken
+to live,vivir,leven
+to feel,sentir,voelen
+to visit,visitar,bezoeken
+to ask,preguntar,vragen
+to think,pensar,denken
+to pass,pasar,passeren
+to order,mandar,bestellen
+to clean,limpiar,schoonmaken
+to wake up,despertar,wakker worden
+to question,cuestionar,in twijfel trekken
+to start,comenzar,beginnen
+to write,escribir,schrijven
+to turn into,convertir,veranderen in
+to wash,lavar,wassen
+to study,estudiar,studeren
+to wait for,esperar,wachten op
+to ask for,pedir,vragen om
+to get,conseguir,krijgen
+to use,usar,gebruiken
+to sit,sentar,zitten
+to try,probar,proberen
+to cook,cocinar,koken
+to dance,bailar,dansen
+to help,ayudar,helpen
+to contain,contener,bevatten
+to need,necesitar,nodig hebben
+to take,llevar,nemen
+to count,contar,tellen
+to look for,buscar,zoeken naar
+to eat,comer,eten
+to sleep,dormir,slapen
+to travel,viajar,reizen
+to have,haber,hebben
+to learn,aprender,leren
+to hear,oír,horen
+to take,tomar,nemen
+to call,llamar,bellen
+to walk,caminar,lopen
+to work,trabajar,werken
+to know,conocer,kennen
+to play,jugar,spelen
+to know,saber,weten
+to go out,salir,uitgaan
+to describe,describir,beschrijven
+to speak,hablar,spreken
+to like,gustar,leuk vinden
+to buy,comprar,kopen
+to give,dar,geven
+to want,querer,willen
+to say,decir,zeggen
+to have,tener,hebben
+to do,hacer,doen
+to go,ir,gaan
+to be,estar,zijn
+to be,ser,zijn
